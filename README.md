@@ -7,6 +7,8 @@ support multi-variate data, and can output a variable length sequences that can 
 In this study, a weather data set provided by National Oceanic and Atmospheric Administration of South Plains Region of Texas is is used which consists 
 of weather data of every hour in the year 2010.
 
+This research is presented in poster competition organized by Graduate School Texas Tech University
+
 
 References: 
 1. https://www.kaggle.com/nicapotato/keras-timeseries-multi-step-multi-output
